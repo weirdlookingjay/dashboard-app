@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dashboard-app/static/css/main.3c310645.css",
+    "main.js": "/dashboard-app/static/js/main.f56cb3af.js",
+    "static/js/787.545aecf5.chunk.js": "/dashboard-app/static/js/787.545aecf5.chunk.js",
+    "static/media/transportIcon.svg": "/dashboard-app/static/media/transportIcon.442d2bddf74a5a9e6b1baf3c5f50c35f.svg",
+    "static/media/cartIcon.svg": "/dashboard-app/static/media/cartIcon.0471469763bfb5f1b49fcf9e0639863f.svg",
+    "index.html": "/dashboard-app/index.html",
+    "static/media/houseIcon.svg": "/dashboard-app/static/media/houseIcon.da02fe3867faabdbe9a4ee08f43687ba.svg",
+    "main.3c310645.css.map": "/dashboard-app/static/css/main.3c310645.css.map",
+    "main.f56cb3af.js.map": "/dashboard-app/static/js/main.f56cb3af.js.map",
+    "787.545aecf5.chunk.js.map": "/dashboard-app/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c310645.css",
+    "static/js/main.f56cb3af.js"
+  ]
+}
